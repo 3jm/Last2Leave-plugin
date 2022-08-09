@@ -16,7 +16,7 @@ The plugin that almost gaurentees you to win.
 
 hence this project is open source, and that I am a solo developer with not much javascript experience, it would be greatly appreciated if you could help me out by contributing to the project.
 
-<hr />
+<br />
 
 <h1>Current Status of the project</h1>
 
